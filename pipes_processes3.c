@@ -12,6 +12,9 @@
  *
  */
 
+//collaborated with Chidindu Alim
+//Adewale Folorunsho. @02822123
+
 int main(int argc, char **argv)
 {
   int pipefd[2];
